@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ravi Kumar 👋</h1>
 
 <p align="center">
-  Full Stack Web Developer | MERN Stack Enthusiast | DSA Learner
+  Full Stack Web Developer | MERN Stack Dev | DSA | Problem Solver
 </p>
 
 ---
@@ -18,35 +18,23 @@
 ### 🛠️ Tech Stack
 
 - **Frontend**: React.js, HTML5, CSS3, JavaScript, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Others**: Git, GitHub, Postman, REST APIs
+- **Backend**: Node.js, Express.js, Next.js
+- **Database**: MongoDB, SQL
+- **Others**: Git, GitHub, Postman, REST APIs, Figma, VSCode
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ravikumar1only)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/ravikumar1only)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ravikumar1only)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/ravikumar1only)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ravichhawania)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravikumar1only&show_icons=true&theme=radical" alt="Ravi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravichhawania&show_icons=true&theme=radical" alt="Ravi's GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravikumar1only&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### ✍️ Blog & Articles
-
-Stay tuned... Coming soon!
 
 ---
 
