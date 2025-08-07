@@ -30,14 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravichhawania&show_icons=true&theme=radical" alt="Ravi's GitHub Stats" />
-</p>
-
----
-
 ### 🧠 Fun Fact
 > I turn ☕ into 💻 code and bugs into features 😄
 
